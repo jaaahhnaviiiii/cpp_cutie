@@ -6,6 +6,6 @@ int cube(int y);
 int max(int z, int w);
 int subtract(int j, int k);  
 
-//one header file can have multiple cpp files in it
+//one header file can have multiple cpp files in it.
 
 #endif

@@ -31,5 +31,5 @@ int main()
     i i i i i i'm iconic by mistake*/
 #endif
 
-    return 0;
+return 0;
 }

@@ -8,6 +8,7 @@ int main()
     int y{getInteger()};
 
     cout << x << " + " << y << " is " << x + y << '\n';
+    
     return 0;
 }
 

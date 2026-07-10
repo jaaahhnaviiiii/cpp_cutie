@@ -22,5 +22,6 @@ int main()
     cin >> a >> b;
     cout << "Maximum: " << max(a, b) << ".\n";
     cout << "Minimum: " << min(a, b) << ".\n";
+
     return 0;
 }

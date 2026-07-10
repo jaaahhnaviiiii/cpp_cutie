@@ -8,6 +8,5 @@ void foo(){
 int main()
 {
     cout << "My bias in bts is " << BTS_BIAS << '\n';
-
     return 0;
 }

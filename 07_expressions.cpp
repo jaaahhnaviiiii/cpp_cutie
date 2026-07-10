@@ -13,7 +13,7 @@ int main()
     int d{b};
     int e{five()};
 
-    cout << "The required values are: " << "a=" << a << '\n'
+    cout << "The required values are: " << "a=" << a << '.\n'
          << "b=" << b << '\n'
          << "c=" << c << '\n'
          << "d=" << d << '\n'

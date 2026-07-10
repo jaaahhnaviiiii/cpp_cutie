@@ -17,4 +17,5 @@ int main ()
     cout << add (a,b) << '\n'    //calls add(5,6), where x=5 and y=6
 
     return 0;
+    
 }   // b and a go out of scope and are destroyed here

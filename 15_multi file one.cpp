@@ -6,5 +6,6 @@ int getInteger()
     int x{};
     cout << "Enter an Integer: ";
     cin >> x;
+   
     return x;
 }
