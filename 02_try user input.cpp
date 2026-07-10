@@ -5,7 +5,7 @@ int main() {
     int age;
 
     cout<< "Enter age:";
-    cin>> age;
+    cin>> age:
 
     cout<< "You entered: " << age;
 

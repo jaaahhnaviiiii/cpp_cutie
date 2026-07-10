@@ -6,4 +6,4 @@ int main()
  int x{2};
                cout << (x=5) << '\n';
                                               return 0;
-} 
+}

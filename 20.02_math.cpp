@@ -2,4 +2,4 @@
 int subtract(int j, int k)
 {
   return j - k;
-}  
+}

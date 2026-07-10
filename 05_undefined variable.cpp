@@ -6,4 +6,3 @@ int main()
     cout << x; // will give garbage value
     return 0;
 }
-

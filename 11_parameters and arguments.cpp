@@ -18,7 +18,7 @@ int main()
     cout << add(a, a) << ".\n";                       // gives 80
    
     cout << multiply(7, add(1, 2)) << ".\n";          //gives 21
-   
+
     cout << add(add(2, 5), multiply(2, 5)) << ".\n";  //gives 17
    
     return 0;

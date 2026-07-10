@@ -6,7 +6,7 @@ int main() {
            int x{};    // define variable x to hold user input
            cin >> x;  //get number from keyboard and store it in variable x
            cout << "You entered:" << x << '\n';
-           return 0;
+           return 0:
 }
 
 /*Enter:
