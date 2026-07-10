@@ -10,4 +10,4 @@ int main ()
     sum = a+b;
     cout << "Sum is:" << sum;
     return 0;
-} //hey
+}
