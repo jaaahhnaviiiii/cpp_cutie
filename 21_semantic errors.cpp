@@ -9,7 +9,8 @@ int add(int x, int y)
 int main()
 {
     cout << "5+2: " << add(5, 2) << '\n'; // programmer wanted 7 as result but got 3
-    return 0;
+    return 0;  //finction returns here
+   /* cout << "Hello World!\n";   //so this never executes*/
 }
 /*Output:
 5+2: 3 (which is wrong, but compiler wont say that)*/
