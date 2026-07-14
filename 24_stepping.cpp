@@ -34,4 +34,5 @@ STEP IN: executes line by line
 STEP OUT: whole function at once
 STEP OVER: next line executes
 variables section (left side, run and debug)
+call stack (tells what function we're on, left side)
 */
