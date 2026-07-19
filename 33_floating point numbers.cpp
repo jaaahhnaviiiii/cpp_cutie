@@ -23,5 +23,5 @@ int main()
     double d4{0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1}; // d4=!d2
     cout << d4 << '\n';
 
-    return 0; //heyy
+    return 0;
 }
