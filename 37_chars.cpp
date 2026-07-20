@@ -33,7 +33,7 @@ int main()
     cout << "ASCII value of " << userChar << " = " << int{userChar} << "\n\n";
 
     // Character arithmetic:
-    char nextChar{static_cast<char>(int{userChar} + 1)};
+    char nextChar{static_cast<char>(int{userChar} + 1)}; //for type conversion
     cout << "Next character after " << userChar << " is: " << nextChar << "\n";
     cout << "ASCII value of " << nextChar << " = " << int{nextChar} << "\n";
 
