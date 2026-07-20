@@ -27,7 +27,7 @@ int main()
         cout << x << " is not a prime number." << '\n';
 
     int y{7};
-    if (y) // is y not zero?
+    if (y) // is y not zero/not empty?
         cout << "y is true." << '\n';
     else
         cout << "y is false." << '\n';
